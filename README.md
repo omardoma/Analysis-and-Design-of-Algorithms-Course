@@ -1,4 +1,6 @@
-#java-algorithms
+# Analysis-and-Design-of-Algorithms-Course
+
+CSEN703 Assignments
 
 How to run? 
 
